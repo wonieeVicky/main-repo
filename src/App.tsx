@@ -27,7 +27,7 @@ function App() {
         </p>
       </div>
       <Button
-        text="Click me"
+        text="Click meeee"
         onClick={() => alert('click!!')}
         style={{ fontSize: 30 }}
       />
